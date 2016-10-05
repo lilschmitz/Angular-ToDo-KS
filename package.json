@@ -1,0 +1,19 @@
+{
+  "name": "ks_angular_todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "git status"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilschmitz/Angular-ToDo-KS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilschmitz/Angular-ToDo-KS/issues"
+  },
+  "homepage": "https://github.com/lilschmitz/Angular-ToDo-KS#readme"
+}
